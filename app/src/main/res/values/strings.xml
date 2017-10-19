@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Iniciar Sesión</string>
+    <string name="dontHaveAccount">¿No tienes cuenta?, </string>
+    <string name="create_here"> Crea una aqui</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password_createaccount">Contraseña</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta</string>
+    <string name="username_Card">Uriel Ramirez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likeNumber_Card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Yo</string>
+    <string name="hello_blank_fragment">Texto Prueba</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleimagedetail">\"Todo copas en la playa\"</string>
+    <string name="lorem">texto prueba texto prueba texto prueba texto prueba texto
+        prueba texto prueba texto prueba texto prueba texto prueba texto prueba</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+</resources>
